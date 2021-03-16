@@ -484,6 +484,8 @@
     "drill_collar_in_open_hole": "DRILL COLLAR IN OPEN HOLE",
     "bit_to_shoe_volume": "Bit to Shoe Volume",
     "note_total_length_may_not_be_equal_to_measured_depth_if_the_choke_line_is_longer_than_the_riser": "Note: Total length may not be equal to Measured Depth if the choke line is longer than the riser.",
+    "total_drillstring_surface_to_bit": "TOTAL DRILLSTRING (SURFACE TO BIT)",
+    "total_annulus_bit_to_surface": " TOTAL ANNULUS (BIT TO SURFACE)",
     "total_drillstring" :"TOTAL DRILLSTRING",
     "surface_to_bit": "(SURFACE TO BIT)",
     "total_annulus" : "TOTAL ANNULUS", 
